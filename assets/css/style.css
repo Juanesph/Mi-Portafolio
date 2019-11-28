@@ -1,0 +1,24 @@
+body{
+    font-family: 'Alatsi', sans-serif;
+    
+}
+
+.tipo{
+    font-size: 92px;
+    position: absolute;
+    bottom: 5%;
+    left: 25%;
+}
+
+.portada{
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.present{
+    position: relative;
+  text-align: center;
+  color: white;
+}
