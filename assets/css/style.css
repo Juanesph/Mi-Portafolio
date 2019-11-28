@@ -1,14 +1,8 @@
 body{
     font-family: 'Alatsi', sans-serif;
-    
+    padding-top: 85px; 
 }
 
-.tipo{
-    font-size: 92px;
-    position: absolute;
-    bottom: 5%;
-    left: 25%;
-}
 
 .portada{
     background-repeat: no-repeat;
@@ -19,6 +13,13 @@ body{
 
 .present{
     position: relative;
-  text-align: center;
-  color: white;
+    text-align: center;
+}
+
+.gradient{
+    background-color: linear-gradient(to bottom left, #0066ff 0%, #9966ff 100%);
+}
+
+.navbar-nav{
+    text-decoration-color: white;
 }
